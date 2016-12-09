@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-mongodb-csv-export-webapp",
+  "version": "1.0.0",
+  "description": "nodejs sample - mongodb connection - export data to csv file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Barquero Loaiza",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.10",
+    "json2csv": "*",
+    "express": "*"
+  }
+}
